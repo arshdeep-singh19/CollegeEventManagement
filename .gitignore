@@ -1,0 +1,12 @@
+# Maven generated files
+target/
+
+# Compiled Java files
+*.class
+
+# IDE and operating system files
+.DS_Store
+Thumbs.db
+
+# Exclude database credentials
+/src/main/java/com/collegeevent/util/DBConnection.java
